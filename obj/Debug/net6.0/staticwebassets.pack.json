@@ -1,0 +1,761 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Miocas.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Miocas.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\css\\plugins\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\css\\plugins\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\css\\plugins\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\css\\plugins\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\css\\plugins\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\css\\plugins\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\css\\plugins\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\css\\plugins\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\css\\plugins\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\css\\plugins\\plugins.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\plugins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\css\\plugins\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\css\\plugins\\venobox.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\venobox.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\css\\vendor\\bootstrap.bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\bootstrap.bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\css\\vendor\\font.awesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\font.awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\css\\vendor\\pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\css\\vendor\\vendor.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\vendor.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\fonts\\FontAwesome\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\fonts\\FontAwesome\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\fonts\\FontAwesome\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\fonts\\FontAwesome\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\fonts\\FontAwesome\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\fonts\\FontAwesome\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke\\Pe-icon-7-stroke.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-stroke\\Pe-icon-7-stroke.eot"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke\\Pe-icon-7-stroke.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-stroke\\Pe-icon-7-stroke.svg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke\\Pe-icon-7-stroke.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-stroke\\Pe-icon-7-stroke.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke\\Pe-icon-7-stroke.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-stroke\\Pe-icon-7-stroke.woff"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\404\\404.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\404\\404.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\about-image\\intro-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-image\\intro-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\about-image\\srevice-left-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about-image\\srevice-left-img.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\about-image\\srevice-left-shape.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about-image\\srevice-left-shape.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\banner\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\banner\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\banner\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\banner\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\banner\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\banner\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\banner\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\banner\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\banner\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\banner\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\banner\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\banner\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\banner\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\banner\\menu-banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\menu-banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\banner\\menu-banner-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\menu-banner-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\banner\\sticker-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\sticker-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\blog-image\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\blog-image\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\blog-image\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\blog-image\\quate-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image\\quate-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\blog-image\\single-blog.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image\\single-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\blog-image\\specker.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image\\specker.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\brand-logo\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-logo\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\brand-logo\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-logo\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\brand-logo\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-logo\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\brand-logo\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-logo\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\brand-logo\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-logo\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\coming-soon-bg\\coming-soon.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\coming-soon-bg\\coming-soon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\comment-image\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\comment-image\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\comment-image\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\comment-image\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\comment-image\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\comment-image\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\deal-img\\deal-bg-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\deal-img\\deal-bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\deal-img\\deal-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\deal-img\\deal-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\deal-img\\woman.png",
+      "PackagePath": "staticwebassets\\assets\\images\\deal-img\\woman.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\favicon\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\icons\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\icons\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\icons\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\icons\\cmpted_logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\cmpted_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\icons\\fabric-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\fabric-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\icons\\icon-youtube-play.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon-youtube-play.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\icons\\jewelry-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\jewelry-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\icons\\paintings-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\paintings-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\icons\\payment.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\payment.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\icons\\pottery-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\pottery-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\icons\\sculptures-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\sculptures-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\icons\\tab-bg-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\tab-bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\icons\\tab-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\tab-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\icons\\wooden-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\wooden-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\logo\\logo-white.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\product-image\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\product-image\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\product-image\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\product-image\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\product-image\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\product-image\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\product-image\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\product-image\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\product-image\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\product-image\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\product-image\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\product-image\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\product-image\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\product-image\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\product-image\\small-image\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\small-image\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\product-image\\small-image\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\small-image\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\product-image\\small-image\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\small-image\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\product-image\\small-image\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\small-image\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\product-image\\small-image\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\small-image\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\product-image\\zoom-image\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\zoom-image\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\product-image\\zoom-image\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\zoom-image\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\product-image\\zoom-image\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\zoom-image\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\product-image\\zoom-image\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\zoom-image\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\product-image\\zoom-image\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\zoom-image\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\review-image\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\review-image\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\review-image\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\review-image\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\slider-image\\slider-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\slider-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\slider-image\\slider-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\slider-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\slider-image\\slider-bg-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\slider-bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\slider-image\\slider-bg-2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\slider-bg-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\slider-image\\slider-bg-2-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\slider-bg-2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\team\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\testimonial-image\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial-image\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\images\\testimonial-image\\quate-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial-image\\quate-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\js\\plugins\\ajax-mail.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\ajax-mail.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\js\\plugins\\countdown.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\js\\plugins\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\js\\plugins\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\js\\plugins\\jquery.zoom.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.zoom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\js\\plugins\\plugins.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\plugins.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\js\\plugins\\scrollup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\scrollup.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\js\\plugins\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\js\\plugins\\venobox.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\venobox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\js\\vendor\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\js\\vendor\\jquery-3.5.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-3.5.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\js\\vendor\\jquery-migrate-3.3.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-migrate-3.3.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\js\\vendor\\modernizr-3.11.2.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-3.11.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\js\\vendor\\vendor.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\vendor.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\php\\mail.php",
+      "PackagePath": "staticwebassets\\assets\\php\\mail.php"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\_about.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\_component.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_component.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\_custom-variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_custom-variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\_hero.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\_responsive-class.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_responsive-class.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\_search-modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_search-modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\_shop.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_shop.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\_variabls.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_variabls.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\component\\_banner.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\component\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\component\\_blog.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\component\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\component\\_brand-slider.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\component\\_brand-slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\component\\_breadcrumd.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\component\\_breadcrumd.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\component\\_button.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\component\\_button.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\component\\_category.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\component\\_category.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\component\\_deal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\component\\_deal.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\component\\_feature.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\component\\_feature.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\component\\_product.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\component\\_product.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\component\\_slider-nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\component\\_slider-nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\component\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\component\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\header\\_header-bottom.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\header\\_header-bottom.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\header\\_header-top.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\header\\_header-top.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\header\\_mobile-header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\header\\_mobile-header.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\header\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\header\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\shop\\_404.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\shop\\_404.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\shop\\_account.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\shop\\_account.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\shop\\_cart.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\shop\\_cart.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\shop\\_checkout.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\shop\\_checkout.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\shop\\_coming-soon.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\shop\\_coming-soon.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\shop\\_compare.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\shop\\_compare.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\shop\\_empty-cart.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\shop\\_empty-cart.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\shop\\_faq.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\shop\\_faq.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\shop\\_login.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\shop\\_login.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\shop\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\shop\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\shop\\_privacy-policy.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\shop\\_privacy-policy.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\shop\\_product-single.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\shop\\_product-single.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\shop\\_shop-category.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\shop\\_shop-category.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\shop\\_single-product-gallery.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\shop\\_single-product-gallery.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\shop\\_single-product-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\shop\\_single-product-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\shop\\_single-product-tabstyle-2.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\shop\\_single-product-tabstyle-2.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\shop\\_single-product-variable.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\shop\\_single-product-variable.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\shop\\_thank-you.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\shop\\_thank-you.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Miocas\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Miocas.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Miocas.props",
+      "PackagePath": "build\\Miocas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Miocas.props",
+      "PackagePath": "buildMultiTargeting\\Miocas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Miocas.props",
+      "PackagePath": "buildTransitive\\Miocas.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

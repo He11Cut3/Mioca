@@ -1,0 +1,89 @@
+﻿@model List<Product>
+
+<!-- breadcrumb-area start -->
+<div class="breadcrumb-area">
+    <div class="container">
+        <div class="row align-items-center justify-content-center">
+            <div class="col-12 text-center">
+                <h2 class="breadcrumb-title">Магазин</h2>
+                <!-- breadcrumb-list start -->
+                <ul class="breadcrumb-list">
+                    <li class="breadcrumb-item"><a >Главная страница</a></li>
+                    <li class="breadcrumb-item active">Магазин</li>
+                </ul>
+                <!-- breadcrumb-list end -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- breadcrumb-area end -->
+<!-- Shop Page Start  -->
+<div class="shop-category-area pt-100px pb-100px">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                
+                <!-- Shop Bottom Area Start -->
+                <div class="shop-bottom-area">
+
+                    <!-- Tab Content Area Start -->
+                    <div class="row">
+                        <div class="col">
+                            <div class="tab-content">
+                                <div class="tab-pane fade show active grid-4-view" id="shop-grid">
+                                    <div class="row mb-n-30px">
+                                       
+                                            <!-- Single Prodect -->
+
+                                            @foreach(var item in Model)
+                                            {
+                                            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 mb-30px" data-aos="fade-up"
+                                                 data-aos-delay="200">
+                                                    <div class="product">
+                                                        <div class="thumb">
+                                                        @if (User.IsInRole("Admin"))
+                                                        {
+                                                            <a asp-controller="Shop" asp-action="DeleteProduct" asp-route-id="@item.Id" class="btn btn-danger">Удалить</a>
+                                                        }
+                                                            <a asp-controller="Shop" asp-action="Details" asp-route-id="@item.Id" class="image">
+                                                                @if (item.Image != null)
+                                                                {
+                                                                    var base64 = Convert.ToBase64String(item.Image);
+                                                                    var imgSrc = string.Format("data:image/png;base64,{0}", base64);
+                                                                    <img class="" height="250" width="350" src="@imgSrc" alt="">
+                                                                }
+                                                            </a>
+                                                        </div>
+                                                        <div class="content">
+                                                            <h5 class="title">
+                                                                <a asp-controller="Shop" asp-action="Details" asp-route-id="@item.Id">
+                                                                    @item.Name
+                                                                </a>
+                                                            </h5>
+                                                            <span class="price">
+                                                                <span>@item.Price</span>Руб.
+                                                            </span>
+                                                        </div>
+                                                    <a asp-controller="Shop" asp-action="Details" asp-route-id="@item.Id" title="Посмотреть подробно" class=" add-to-cart">
+                                                        Посмотреть подробно
+                                                    </a>
+                                                        
+                                                    </div>
+                                                </div>
+                                            }
+                                    </div>
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Tab Content Area End -->
+                    
+                </div>
+                <!-- Shop Bottom Area End -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Shop Page End  -->

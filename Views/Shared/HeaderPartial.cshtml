@@ -1,0 +1,69 @@
+﻿<!-- Header Area Start -->
+<header>
+    <div class="header-main sticky-nav ">
+        <div class="container position-relative">
+            <div class="row">
+                <div class="col-auto align-self-center">
+                    <div class="header-logo">
+                        <a asp-controller="Home" asp-action="Index" ><img src="~/assets/images/logo/logo.png" alt="Site Logo" /></a>
+                    </div>
+                </div>
+                <div class="col align-self-center d-none d-lg-block">
+                    <div class="main-menu">
+                        <ul>
+                            <li><a asp-controller="Home" asp-action="Index">Главная страница</a></li>
+                            <li><a asp-controller="Shop" asp-action="Index">Магазин</a></li>
+                            <li><a asp-controller="Home" asp-action="About">О нас</a></li>
+                            <li><a asp-controller="Home" asp-action="Contact">Контакты</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Header Action Start -->
+                <div class="col col-lg-auto align-self-center pl-0">
+                    <div class="header-actions">
+                        <!-- Single Wedge Start -->
+                        <!-- Single Wedge End -->
+                        <div class="header-bottom-set dropdown">
+                            <button class="dropdown-toggle header-action-btn" data-bs-toggle="dropdown">
+                                <i class="pe-7s-users"></i>
+                            </button>
+                            <ul class="dropdown-menu dropdown-menu-right">
+                                
+                                @if (User.Identity?.IsAuthenticated ?? false)
+                                {
+                                    <li><a class="dropdown-item">@User.Identity.Name</a></li>
+
+                                    @if (User.IsInRole("Admin"))
+                                    {
+                                        <li><a class="dropdown-item" asp-controller="Shop" asp-action="Create">Добавить продукт</a></li>
+                                        <li><a class="dropdown-item" asp-controller="Account" asp-action="ViewHistory">История заказов</a></li>
+                                        <li><a class="dropdown-item" asp-controller="Account" asp-action="Logout">Выход</a></li>
+                                    }
+                                    else
+                                    {
+                                        <li><a class="dropdown-item" asp-controller="Account" asp-action="ViewHistory">История заказов</a></li>
+                                        <li><a class="dropdown-item" asp-controller="Account" asp-action="Logout">Выход</a></li>
+                                    }
+                                }
+                                else
+                                {
+                                    <li><a class="dropdown-item" asp-controller="Account" asp-action="Create">Регистрация</a></li>
+                                    <li><a class="dropdown-item" asp-controller="Account" asp-action="Login">Вход</a></li>
+                                }
+
+                            </ul>
+                        </div>
+
+                        <!-- Single Wedge End -->
+                        <a asp-controller="Cart" asp-action="Index" class="header-action-btn header-action-btn-cart">
+                            <i class="pe-7s-shopbag"></i>
+                            <!-- <span class="cart-amount">€30.00</span> -->
+                        </a>
+                    </div>
+                    <!-- Header Action End -->
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<!-- Header Area End -->
